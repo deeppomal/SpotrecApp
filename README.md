@@ -2,4 +2,4 @@
 
 The app is live on play store 
 
-Download link : https://play.google.com/store/apps/details?id=com.spotrec
+Download link : https://drive.google.com/file/d/1hzhe-yGZfpnKQxQhqHulvhPGL-3Djurx/view?usp=sharing
